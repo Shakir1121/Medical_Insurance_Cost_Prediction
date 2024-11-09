@@ -36,5 +36,5 @@ The medical insurance cost prediction project using machine learning helps in fo
     <br>
     ![Alt text](https://github.com/shakir1121/Medical_Insurance_Cost_Prediction/blob/main/EDA_Images/M_F_By_Region.PNG?raw=true)
 - Number of Male and Female with their Age
-  <br>
+
     ![Alt text](https://github.com/shakir1121/Medical_Insurance_Cost_Prediction/blob/main/EDA_Images/M_F_by_Age.PNG?raw=true)
