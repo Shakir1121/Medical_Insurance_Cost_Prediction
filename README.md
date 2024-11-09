@@ -12,3 +12,8 @@ The medical insurance cost prediction project using machine learning helps in fo
 - **Smoker**: Whether the individual smokes
 - **Region**: Residential area of the individual
 - **Charges**: Medical insurance cost (target variable)
+- # Data Preprocessing
+- ## Handle Missing Data
+- ## Convert categorical variables (sex, smoker, region) into numerical formats
+- # Exploratory Data Analysis (EDA)
+- 
