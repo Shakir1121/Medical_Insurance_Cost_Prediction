@@ -16,4 +16,10 @@ The medical insurance cost prediction project using machine learning helps in fo
 - Handle Missing Data
 - Convert categorical variables (sex, smoker, region) into numerical formats
 - # Exploratory Data Analysis (EDA)
-- 
+- Analyze the distribution of Target Variables (charges).
+- Scatter plot for Age vs Charges, differentiated by Smoker bs Non Smoker
+- Count the Number of Male and Female using countplot
+- Count the Number of Children
+- Count the Number of Smoker and Non Smoker
+- Create count plot of Number of Male and Female Base on Region (SouthWest,SouthEast,NorthWest,NorthEast)
+- Number of Male and Female with their Age
