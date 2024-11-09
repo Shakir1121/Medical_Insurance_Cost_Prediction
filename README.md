@@ -1,1 +1,2 @@
+# Medical Insurance Cost Prediction Using ML
 The "Medical Insurance Cost Prediction" project leverages machine learning techniques to train model and predict the cost of medical insurance based on demographic and lifestyle features. This involves analyzing factors such as age, BMI, number of children, and smoking status to estimate how much an individual will pay for health insurance. By applying regression algorithms, the model will help insurance companies and customers alike to better understand the cost structure of insurance premiums and make data-driven decisions.
