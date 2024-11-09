@@ -17,11 +17,24 @@ The medical insurance cost prediction project using machine learning helps in fo
 - Convert categorical variables (sex, smoker, region) into numerical formats
 - # Exploratory Data Analysis (EDA)
 - Analyze the distribution of Target Variables (charges)
+  <br>
   ![Alt text](https://github.com/shakir1121/Medical_Insurance_Cost_Prediction/blob/main/EDA_Images/distribution_of_charges.PNG?raw=true)
 
 - Scatter plot for Age vs Charges, differentiated by Smoker bs Non Smoker
+  <br>
+    ![Alt text](https://github.com/shakir1121/Medical_Insurance_Cost_Prediction/blob/main/EDA_Images/age_vs_charges.PNG?raw=true)
 - Count the Number of Male and Female using countplot
+    <br>
+    ![Alt text](https://github.com/shakir1121/Medical_Insurance_Cost_Prediction/blob/main/EDA_Images/no_of_M_F.PNG?raw=true)
 - Count the Number of Children
+    <br>
+    ![Alt text](https://github.com/shakir1121/Medical_Insurance_Cost_Prediction/blob/main/EDA_Images/no_children.PNG?raw=true)
 - Count the Number of Smoker and Non Smoker
+    <br>
+    ![Alt text](https://github.com/shakir1121/Medical_Insurance_Cost_Prediction/blob/main/EDA_Images/smoker_non_smoker.PNG?raw=true)
 - Create count plot of Number of Male and Female Base on Region (SouthWest,SouthEast,NorthWest,NorthEast)
+    <br>
+    ![Alt text](https://github.com/shakir1121/Medical_Insurance_Cost_Prediction/blob/main/EDA_Images/M_F_By_Region.PNG?raw=true)
 - Number of Male and Female with their Age
+  <br>
+    ![Alt text](https://github.com/shakir1121/Medical_Insurance_Cost_Prediction/blob/main/EDA_Images/M_F_by_Age.PNG?raw=true)
