@@ -36,11 +36,11 @@ The medical insurance cost prediction project using machine learning helps in fo
     <br>
     ![Alt text](https://github.com/shakir1121/Medical_Insurance_Cost_Prediction/blob/main/EDA_Images/M_F_By_Region.PNG?raw=true)
 - Number of Male and Female with their Age
-Model Development
+# Model Development
 - Split the dataset into training and testing sets.
 - Implement a linear regression model.
 - Evaluate model performance using appropriate metrics (e.g., R-squared, Mean Squared Error).
-  Result
+# Result
   Using Linear Regression Model result is 70%.improve result fine tuning.
-  Conclusion
+# Conclusion
   Linear regression provides a baseline model for predicting medical charges based on demographic and health-related factors. Further analysis, including regularized linear models and sensitivity analysis, can help improve model robustness and generalization.
